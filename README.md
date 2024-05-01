@@ -19,5 +19,6 @@ User creates their own account that gets saved to a MySQL DB, and from that DB, 
 ## Application Languages:
 + PHP
 + SQL
++ HTML
 + CSS
 + Javascript
