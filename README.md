@@ -13,13 +13,11 @@ The User creates their own account that gets saved to a MySQL DB, and from that 
 + MySQL 
 + Javascript
 
-
 ## RDBMS:
 + MySQL Community Server v8
 
 ## Application Languages:
 + PHP
 + SQL
-+ HTML
 + CSS
 + Javascript
